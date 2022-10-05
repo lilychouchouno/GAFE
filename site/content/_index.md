@@ -1,7 +1,7 @@
 ---
 title: 絓ちゃんねる
 subtitle: What is the site?
-image: img/20181112210407.jpg
+image: https://twitter.com/hosh_/status/1515884586223480842
 blurb:
   heading: Summary
   text: This site is not affiliated with Hidemi Suga. Not only is it not related,
