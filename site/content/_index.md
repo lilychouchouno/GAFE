@@ -1,6 +1,6 @@
 ---
 title: 絓ちゃんねる
-subtitle: What is the site
+subtitle: What is the site?
 image: img/20181112210407.jpg
 blurb:
   heading: Summary
