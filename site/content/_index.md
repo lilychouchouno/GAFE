@@ -14,6 +14,6 @@ products:
   - image: img/518v54v9mrl.jpg
     text: SUGA!!
 values:
-  heading: (^o^)f
+  heading: (^o^)
   text: (≧∇≦)
 ---
